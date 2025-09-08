@@ -1,22 +1,18 @@
-# [MESS PORTAL](https://mess.dashroshan.com)
+# [MESS HYGIENE](https://mess.dashjerusha.com)
 
-[**A D3 Fest Hackathon submission**](https://d3fest.tech)
+[**Hack 4 Hackathon submission**](https://d3hack.tech)
 
 ### Team members:
 
-- Roshan Dash (Developer)
-- Subhajit Chatterjee (UI/UX, Documentation)
-
-### ▶️ [View it on YouTube](https://www.youtube.com/watch?v=QqCdYTh8L7o)
+- Jerusha S,Ananya (Developer)
+- Stacy M,Sanjana(UI/UX, Documentation)
 
 ## 🧱 PROBLEM STATEMENT
 
-**D3H05**
+Develop a solution for mess hygiene. The solution should provide facilities to the mess admin and the students. For mess admins, they should give proper food quality and other necessary details like menu, and reports in the mess dashboard. Students can review from the mess dashboard only, deciding their desired meals for the week. The aim of the project will be to remove the hassle of mess hygiene to and provide a centralized platform for mess hygiene.
 
-Develop a solution for mess management. The solution should provide facilities to the mess admin and the students. For mess admins, they can manage coupons and other necessary details like menu, and pricing in the mess dashboard. Students can buy coupons from the mess dashboard only, deciding their desired meals for the week. The aim of the project will be to remove the hassle of buying coupons and provide a centralized platform for mess management.
-
-- **Task 1 -** QR codes for each meal a day in place of paper coupons
-- **Task 2 -** Razorpay Integration
+- **Task 1 -** QR codes for each meal a day with cleanliness
+- **Task 2 -** Quick report
 
 ## ✨ SALIENT FEATURES OF OUR SOLUTION
 
@@ -25,50 +21,21 @@ Develop a solution for mess management. The solution should provide facilities t
   Has specialised mess dashboard where the admin can :
 
   - _Manage the menu_
-  - _Edit timings_
-  - _Regulate prices_
+  - _compliance and certification_
+  - _Digital display of hygiene compliance scores_
   - _Know total meals to be cooked_
   - _Scan and verify QR codes to provide meal_
-  - _Razorpay integration to accept online payments_
+  - _safe and storage(covered containers)_
 
 - For **STUDENTS** :
 
   They gain access to :
 
-  - _View the weekly menu, timining, and costs_
-  - _Decide and purchase their desired meals online_
-  - _Review the meals purchased (for both present and next week)_
-  - _Using a single QR code instead of paper coupons_
-
-## 🎯 DETAILED DESCRIPTION
-
-- ### STUDENT SERVICES
-
-  - **Mess time and menu on the home page**
-
-    ![](/assets/time_menu.jpg)
-
-  - **Signing in to the account**
-
-    The students can sign in using their respective Google accounts using the sign in option. Login can be restricted to certain domains like iiit-bh.ac.in
-
-    ![](/assets/google_signin.jpg)
-
-  - **Buying coupons for next week**
-
-    The student can apply for desired meals by selecting among the checkboxes. The final amount is displayed at the bottom for payment.
-
-    ![](/assets/purchase_page.jpg)
-
-    Upon clicking "Continue with Payment", the student is directed to the Payment Gateway of Razorpay to complete their purchase.
-
-    ![](/assets/payment.jpg)
-
-  - **Purchase history**
-
-    The student can check which meal and day coupons they have bought for the current and upcoming week.
-
-    ![](/assets/purchase_history.jpg)
+  - _daily/weekly menu updates_
+  - _Allergen details for safety_
+  - _Review the meal(for both present and next week)_
+  - _Using a single QR code_
+    
 
   - **Using QR code**
 
@@ -77,13 +44,7 @@ Develop a solution for mess management. The solution should provide facilities t
 
     ![](/assets/qr_code.jpg)
 
-- ### ADMINISTRATOR SERVICES :
-
-  - **Admin panel**
-
-    This provides interface to edit the cost, time, and items of the weekly menu.
-
-    ![](/assets/admin_panel.jpg)
+  
 
   - **Total meals**
 
@@ -99,4 +60,4 @@ Develop a solution for mess management. The solution should provide facilities t
 
     The admin can press "Scan New" to check a new QR code.
 
-## ❤️ Team Zenith
+## ❤️ Team CODE CRUSADERS
