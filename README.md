@@ -1,11 +1,11 @@
-# [MESS PORTAL](https://mess.dashroshan.com)
+# [MESS HYGIENE](https://mess.dashjerusha.com)
 
-[**A D3 Fest Hackathon submission**](https://d3fest.tech)
+[**A D3 Hack 4 Hackathon submission**](https://d3hack.tech)
 
 ### Team members:
 
-- Roshan Dash (Developer)
-- Subhajit Chatterjee (UI/UX, Documentation)
+- Jerusha S,Ananya (Developer)
+- Stacy M,Sanjana (UI/UX, Documentation)
 
 ### ▶️ [View it on YouTube](https://www.youtube.com/watch?v=QqCdYTh8L7o)
 
@@ -13,10 +13,10 @@
 
 **D3H05**
 
-Develop a solution for mess management. The solution should provide facilities to the mess admin and the students. For mess admins, they can manage coupons and other necessary details like menu, and pricing in the mess dashboard. Students can buy coupons from the mess dashboard only, deciding their desired meals for the week. The aim of the project will be to remove the hassle of buying coupons and provide a centralized platform for mess management.
+Develop a solution for mess hygiene. The solution should provide facilities to the mess admin and the students. For mess admins, they can manage food quality  and other necessary details like food review, and rating in the mess dashboard. Students should get quick response  from the mess dashboard only, deciding their desired meals for the week. The aim of the project will be to remove the hassle of food taste and quality and provide a centralized platform for mess hygiene.
 
-- **Task 1 -** QR codes for each meal a day in place of paper coupons
-- **Task 2 -** Razorpay Integration
+- **Task 1 -** QR codes for day review of food
+- **Task 2 -** immediate changes
 
 ## ✨ SALIENT FEATURES OF OUR SOLUTION
 
@@ -25,20 +25,20 @@ Develop a solution for mess management. The solution should provide facilities t
   Has specialised mess dashboard where the admin can :
 
   - _Manage the menu_
-  - _Edit timings_
-  - _Regulate prices_
+  - _Food quality__
+  - _hygiene checking_
   - _Know total meals to be cooked_
-  - _Scan and verify QR codes to provide meal_
-  - _Razorpay integration to accept online payments_
+  - _Scan and verify QR codes of food quality_
+  - _quick responses_
 
 - For **STUDENTS** :
 
   They gain access to :
 
-  - _View the weekly menu, timining, and costs_
-  - _Decide and purchase their desired meals online_
-  - _Review the meals purchased (for both present and next week)_
-  - _Using a single QR code instead of paper coupons_
+  - _Rate meals(taste,quality,cleanliness)_
+  - _report hygiene issues(dirty plates,kitchen cleanliness,pests)_
+  - _Suggest improvements_
+  - _Using a single QR code _
 
 ## 🎯 DETAILED DESCRIPTION
 
@@ -53,22 +53,7 @@ Develop a solution for mess management. The solution should provide facilities t
     The students can sign in using their respective Google accounts using the sign in option. Login can be restricted to certain domains like iiit-bh.ac.in
 
     ![](/assets/google_signin.jpg)
-
-  - **Buying coupons for next week**
-
-    The student can apply for desired meals by selecting among the checkboxes. The final amount is displayed at the bottom for payment.
-
-    ![](/assets/purchase_page.jpg)
-
-    Upon clicking "Continue with Payment", the student is directed to the Payment Gateway of Razorpay to complete their purchase.
-
-    ![](/assets/payment.jpg)
-
-  - **Purchase history**
-
-    The student can check which meal and day coupons they have bought for the current and upcoming week.
-
-    ![](/assets/purchase_history.jpg)
+    
 
   - **Using QR code**
 
@@ -77,13 +62,7 @@ Develop a solution for mess management. The solution should provide facilities t
 
     ![](/assets/qr_code.jpg)
 
-- ### ADMINISTRATOR SERVICES :
 
-  - **Admin panel**
-
-    This provides interface to edit the cost, time, and items of the weekly menu.
-
-    ![](/assets/admin_panel.jpg)
 
   - **Total meals**
 
@@ -99,4 +78,4 @@ Develop a solution for mess management. The solution should provide facilities t
 
     The admin can press "Scan New" to check a new QR code.
 
-## ❤️ Team Zenith
+## ❤️ Team CODE CRUSADERS
